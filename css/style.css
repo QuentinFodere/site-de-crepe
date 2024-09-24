@@ -1,0 +1,41 @@
+
+body {
+	background-color: #FFCCE5; 
+	font-family: 'Lucida Handwriting', sans-serif;color: #FF3333;
+	}
+
+h1 { 
+	text-decoration: underline; 
+	font-size: 65px;
+	text-align: center;
+	font-family: 'Copperplate', 'Arial Black', calibri;
+}
+
+h2 { 
+	text-decoration: underline; 
+	font-size: 35px;
+	font-family: 'Copperplate', 'Arial Black', calibri;
+}
+
+img{
+    float: right;
+    border: 2px solid #000;
+	transition: transform 0.2s;
+	
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+
+img {
+  position: absolute;
+  top: 300px;
+  right: 100px;
+}
+
+
+
+
+
+
